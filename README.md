@@ -3,3 +3,4 @@
 1. Click on the "view code"
 2. Click on the Results analysis.r (the code)
 3. docx or pdf files can be uploaded on the computer.
+R
